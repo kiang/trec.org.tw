@@ -1,2 +1,5 @@
 case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+391,100,5748,太陽能,2341,國泰世華商業銀行股份有限公司,天機電力股份有限公司<br/>(天機電力股份有限公司),天機電力股份有限公司,天機電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5748"" data-year=""2023"" data-case=""391"" data-buyer=""100""><i class=""icon search""></i>詳情</button>",146
+391,67,5748,太陽能,1552,國泰人壽保險股份有限公司,天機電力股份有限公司<br/>(天機電力股份有限公司),天機電力股份有限公司,天機電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5748"" data-year=""2023"" data-case=""391"" data-buyer=""67""><i class=""icon search""></i>詳情</button>",147
+391,1261,5748,太陽能,52,國泰金融控股股份有限公司,天機電力股份有限公司<br/>(天機電力股份有限公司),天機電力股份有限公司,天機電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5748"" data-year=""2023"" data-case=""391"" data-buyer=""1261""><i class=""icon search""></i>詳情</button>",148
 391,9128,5748,太陽能,834,中國砂輪企業股份有限公司,天機電力股份有限公司<br/>(天機電力股份有限公司),天機電力股份有限公司,天機電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5748"" data-year=""2024"" data-case=""391"" data-buyer=""9128""><i class=""icon search""></i>詳情</button>",165
