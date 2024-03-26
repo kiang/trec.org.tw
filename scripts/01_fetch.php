@@ -61,9 +61,9 @@ curl 'https://www.trec.org.tw/certification/data' \
   -H 'accept: application/json, text/javascript, */*; q=0.01' \
   -H 'accept-language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7' \
   -H 'content-type: application/x-www-form-urlencoded; charset=UTF-8' \
-  -H 'cookie: _ga=GA1.1.1063148836.1711433086; TS011cb317=017732bd2979abe9a2c7e1c2bcfb639135192a2d7bfdb278ba9a43bdc31a4bbd41b5183a2525e268fde7f81f1208944399abe60556; _ga_S7KXQZEWR5=GS1.1.1711439388.3.1.1711439459.60.0.0; XSRF-TOKEN=eyJpdiI6IklzWS9QQ0ttSEpkNERNcitoai9zamc9PSIsInZhbHVlIjoicE1ySExDNnUzWFNlMWQvYUVvMk5uZTBMY3NrWmRQaGZKdCtnRkthN2VBdDJCa29oc0Y0T3hwYjNpQVB5N2JTdVE5ZmhJRGwvc1JRRDQyUmtpc25HblhCY0p0aThZeTFpVkUwMVpEY0ZVbEJ5ZnRzNmhYWU9aTnkrMmQzQUhnREciLCJtYWMiOiIxZmY5MzVhMjliY2YwYjM4M2YzNGM2ZDgyY2I2YTJiOTJhNTBlNWY3OWFmYzUyOTdlOGUwMzRhYjlmNTM2ZWIzIiwidGFnIjoiIn0%3D; new_trec_session=eyJpdiI6Im5PUjRsZ1plbG9hRHppMlRPcGVESFE9PSIsInZhbHVlIjoiM2xzWlQvbVVSWk9tb1FtY0xWY05EOGxWQlg1ZnpveFhOVXFkb1hmT3Ryd3ZmMVFLRG81T2ZHMFRuWUNYTFl6OUZwVmUzN3JoVThEbWkvNGxJRldILzFHZ0ZNZ1N4aGV5dnRxKzFVUEhIRUVGaGo5SzNKa2JPMkZWWGhJNWl2aFMiLCJtYWMiOiJkZTU3MWJmNDFhYzA0YjlhNWJlZjE5ODU5YmQ5YTU0MmNkZjZkMzU2ODk0NWY5OGU4NmQwMDgxMTE3YmIwYjAyIiwidGFnIjoiIn0%3D; TS01db6dfa=017732bd298a7026916a9f86b991792b60398bfd436da709dd975a5b77adb25ff658d36d6149a2d894bf05a0c0eede3158b02333548e489c1cae68bdc4f53b67e335cee1fc9d4c9f989da746dca9ccfd2fda376430' \
+  -H 'cookie: _ga=GA1.1.1063148836.1711433086; XSRF-TOKEN=eyJpdiI6Im01b0daZWE1YXN6S0kwZnNEaHRPRmc9PSIsInZhbHVlIjoiQ1ZGTFVUQ0pKZC9XV1V3eUlSVndYM1BNVTVGVFRNTVIrQUY0bGdBR3BOaUlBNDFjWWhENVYwOEx4UkgxT3BaUDNSTUxnWG1rNEtCU1RQRlZQSzQrOXRFRWFjMU1wNzBhMVp4VitNNjFPc0lSajFLeS9tZjh4V1BRMW5nY2dCWlMiLCJtYWMiOiI0YzJkNzQ0NjI1MjM4ZmY3MTc5MTJmY2RmNzlhNzRiMTUxNzA1NzY3Y2FjOTYwNTliNTIyMTNmOGMwZWUxNzA0IiwidGFnIjoiIn0%3D; new_trec_session=eyJpdiI6IkVuRkxmeU1UWjBKcTFLOVBvTGFHWlE9PSIsInZhbHVlIjoiNmZQT1lLdUNCSkd5T21YWVdoNFVvMTdOdjlEckh1a3phSlFGRlpLYmdZZUI2NldnbU80NmplY1BLcjdXRmgrUUtZSktMTVhoenlnMUEyTWdqWWF4L3hVUmJoeDlkY2JrNlRzbXd5bng0NTF2N09VQzQyY3VycDB4SndvQXFmbHEiLCJtYWMiOiI0Y2E1OTUwMGY1MTk4ZGQyMmFkMDU2NTA1NTAzMzU0ZGU0MTZkODRjZTk4MzhhZjJmZDYzN2JjMTg3YTU3OTJkIiwidGFnIjoiIn0%3D; TS011cb317=017732bd29e42dc9b44e307195c5c3ae9b4a3e83a31baf9d2187d16e82b8a1824640cde82ceddbf1d4b842487fe3c8259621998a4d; TS01db6dfa=017732bd29ff1357a14fb0de7c0becd9175a1cf4d86da709dd975a5b77adb25ff658d36d6149a2d894bf05a0c0eede3158b02333543417aafc2b9c1f85f3ad01f535748ca78d16ca6b6874226966d083823a989690; _ga_S7KXQZEWR5=GS1.1.1711450410.5.0.1711450410.60.0.0' \
   -H 'origin: https://www.trec.org.tw' \
-  -H 'referer: https://www.trec.org.tw/certification' \
+  -H 'referer: https://www.trec.org.tw/certification?year=___YEAR___' \
   -H 'sec-ch-ua: "Google Chrome";v="123", "Not:A-Brand";v="8", "Chromium";v="123"' \
   -H 'sec-ch-ua-mobile: ?0' \
   -H 'sec-ch-ua-platform: "Linux"' \
@@ -73,13 +73,30 @@ curl 'https://www.trec.org.tw/certification/data' \
   -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' \
   -H 'x-csrf-token: Yyb0rV2bF5IZ1GtMAnYDwZ2ogegVduPnvVZKerpk' \
   -H 'x-requested-with: XMLHttpRequest' \
-  --data-raw 'draw=1&columns%5B0%5D%5Bdata%5D=DT_RowIndex&columns%5B0%5D%5Bname%5D=DT_RowIndex&columns%5B0%5D%5Bsearchable%5D=false&columns%5B0%5D%5Borderable%5D=false&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=name&columns%5B1%5D%5Bsearchable%5D=false&columns%5B1%5D%5Borderable%5D=false&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=energy&columns%5B2%5D%5Bname%5D=energy&columns%5B2%5D%5Bsearchable%5D=false&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=certification_year&columns%5B3%5D%5Bname%5D=certification_year&columns%5B3%5D%5Bsearchable%5D=false&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=traded_count&columns%5B4%5D%5Bname%5D=traded_count&columns%5B4%5D%5Bsearchable%5D=false&columns%5B4%5D%5Borderable%5D=false&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=remaining_count&columns%5B5%5D%5Bname%5D=remaining_count&columns%5B5%5D%5Bsearchable%5D=false&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=detail&columns%5B6%5D%5Bname%5D=detail&columns%5B6%5D%5Bsearchable%5D=false&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&start=0&length=-1&search%5Bvalue%5D=&search%5Bregex%5D=false&year=___YEAR___&date=___YEAR___-12&energy=-1'
+  --data-raw 'draw=___PAGE___&columns%5B0%5D%5Bdata%5D=DT_RowIndex&columns%5B0%5D%5Bname%5D=DT_RowIndex&columns%5B0%5D%5Bsearchable%5D=false&columns%5B0%5D%5Borderable%5D=false&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=name&columns%5B1%5D%5Bname%5D=name&columns%5B1%5D%5Bsearchable%5D=false&columns%5B1%5D%5Borderable%5D=false&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=energy&columns%5B2%5D%5Bname%5D=energy&columns%5B2%5D%5Bsearchable%5D=false&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=certification_year&columns%5B3%5D%5Bname%5D=certification_year&columns%5B3%5D%5Bsearchable%5D=false&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=traded_count&columns%5B4%5D%5Bname%5D=traded_count&columns%5B4%5D%5Bsearchable%5D=false&columns%5B4%5D%5Borderable%5D=false&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=remaining_count&columns%5B5%5D%5Bname%5D=remaining_count&columns%5B5%5D%5Bsearchable%5D=false&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=detail&columns%5B6%5D%5Bname%5D=detail&columns%5B6%5D%5Bsearchable%5D=false&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&start=___START___&length=100&search%5Bvalue%5D=&search%5Bregex%5D=false&year=___YEAR___&date=___YEAR___-12'
 EOD;
 
 for ($i = 2017; $i <= 2024; $i++) {
-  $rawFile = $basePath . '/raw/certification/' . $i . '.json';
+  $rawFile = $basePath . '/raw/certification/' . $i . '_1.json';
   if (!file_exists($rawFile)) {
-    $result = shell_exec(str_replace('___YEAR___', $i, $command));
-    file_put_contents($rawFile, $result);
+    $totalPages = 1000;
+    $currentPage = 1;
+    while ($currentPage <= $totalPages) {
+      $posStart = ($currentPage - 1) * 100;
+      $result = shell_exec(strtr($command, [
+        '___YEAR___' => $i,
+        '___PAGE___' => $currentPage,
+        '___START___' => $posStart,
+      ]));
+      $rawFile = $basePath . '/raw/certification/' . $i . '_' . $currentPage . '.json';
+      file_put_contents($rawFile, $result);
+
+      if (1000 === $totalPages) {
+        $json = json_decode($result, true);
+        $totalPages = ceil($json['recordsTotal'] / 100);
+      }
+
+      $currentPage++;
+    }
   }
 }
