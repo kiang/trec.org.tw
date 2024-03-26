@@ -1,0 +1,4 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+482,5968,1881,太陽能,710,南帝化學工業股份有限公司,富威電力股份有限公司<br/>星崴電力股份有限公司(星崴七股太陽光電發電廠),星崴七股太陽光電發電廠,星崴電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""1881"" data-year=""2023"" data-case=""482"" data-buyer=""5968""><i class=""icon search""></i>詳情</button>",299
+482,5968,1881,太陽能,41,南帝化學工業股份有限公司,富威電力股份有限公司<br/>星崴電力股份有限公司(星崴七股太陽光電發電廠),星崴七股太陽光電發電廠,星崴電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""1881"" data-year=""2024"" data-case=""482"" data-buyer=""5968""><i class=""icon search""></i>詳情</button>",301
+498,5968,1881,太陽能,62,南帝化學工業股份有限公司,富威電力股份有限公司<br/>玉樹能源股份有限公司(玉樹能源第一期、玉樹能源第1-2期),玉樹能源第一期、玉樹能源第1-2期,玉樹能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""1881"" data-year=""2024"" data-case=""498"" data-buyer=""5968""><i class=""icon search""></i>詳情</button>",327

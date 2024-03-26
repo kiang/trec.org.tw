@@ -1,0 +1,4 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+503,5866,5784,太陽能,2098,友達光電股份有限公司,遠勁綠能股份有限公司<br/>(永豐餘大甲廠太陽光電發電廠),永豐餘大甲廠太陽光電發電廠,遠勁綠能股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5784"" data-year=""2024"" data-case=""503"" data-buyer=""5866""><i class=""icon search""></i>詳情</button>",512
+630,5866,5784,太陽能,1570,友達光電股份有限公司,遠勁綠能股份有限公司<br/>(遠勁中華紙漿久堂廠),遠勁中華紙漿久堂廠,遠勁綠能股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5784"" data-year=""2024"" data-case=""630"" data-buyer=""5866""><i class=""icon search""></i>詳情</button>",513
+631,5866,5784,太陽能,1709,友達光電股份有限公司,遠勁綠能股份有限公司<br/>(遠勁永豐餘高雄),遠勁永豐餘高雄,遠勁綠能股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5784"" data-year=""2024"" data-case=""631"" data-buyer=""5866""><i class=""icon search""></i>詳情</button>",514

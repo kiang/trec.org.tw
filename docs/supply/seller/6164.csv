@@ -1,0 +1,2 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+483,6166,6164,太陽能,1,微電能源股份有限公司,瓦力電能股份有限公司<br/>東迪能源股份有限公司(臺南市官田區317.7瓩),臺南市官田區317.7瓩,東迪能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""6164"" data-year=""2024"" data-case=""483"" data-buyer=""6166""><i class=""icon search""></i>詳情</button>",424

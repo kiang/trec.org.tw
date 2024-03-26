@@ -1,0 +1,2 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+498,2341,6484,太陽能,9102,南亞科技股份有限公司,玉樹能源股份有限公司<br/>(玉樹能源第一期、玉樹能源第1-2期),玉樹能源第一期、玉樹能源第1-2期,玉樹能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""6484"" data-year=""2024"" data-case=""498"" data-buyer=""2341""><i class=""icon search""></i>詳情</button>",414

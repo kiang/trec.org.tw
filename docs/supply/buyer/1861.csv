@@ -1,0 +1,5 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+318,1861,5269,太陽能,790,李長榮化學工業股份有限公司(大社廠),全利成電力股份有限公司<br/>(全利成2號電廠),全利成2號電廠,全利成電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5269"" data-year=""2023"" data-case=""318"" data-buyer=""1861""><i class=""icon search""></i>詳情</button>",61
+383,1861,5269,太陽能,459,李長榮化學工業股份有限公司(大社廠),全利成電力股份有限公司<br/>(全利成3號電廠),全利成3號電廠,全利成電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5269"" data-year=""2023"" data-case=""383"" data-buyer=""1861""><i class=""icon search""></i>詳情</button>",64
+318,1861,5269,太陽能,275,李長榮化學工業股份有限公司(大社廠),全利成電力股份有限公司<br/>(全利成2號電廠),全利成2號電廠,全利成電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5269"" data-year=""2024"" data-case=""318"" data-buyer=""1861""><i class=""icon search""></i>詳情</button>",74
+383,1861,5269,太陽能,106,李長榮化學工業股份有限公司(大社廠),全利成電力股份有限公司<br/>(全利成3號電廠),全利成3號電廠,全利成電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5269"" data-year=""2024"" data-case=""383"" data-buyer=""1861""><i class=""icon search""></i>詳情</button>",77

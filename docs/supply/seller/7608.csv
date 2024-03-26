@@ -1,0 +1,3 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+654,6984,7608,太陽能,6562,力晶積成電子製造股份有限公司,瑤光智慧能源股份有限公司<br/>(瑤光智慧能源股份有限公司),瑤光智慧能源股份有限公司,瑤光智慧能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""7608"" data-year=""2023"" data-case=""654"" data-buyer=""6984""><i class=""icon search""></i>詳情</button>",396
+654,6984,7608,太陽能,805,力晶積成電子製造股份有限公司,瑤光智慧能源股份有限公司<br/>(瑤光智慧能源股份有限公司),瑤光智慧能源股份有限公司,瑤光智慧能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""7608"" data-year=""2024"" data-case=""654"" data-buyer=""6984""><i class=""icon search""></i>詳情</button>",418

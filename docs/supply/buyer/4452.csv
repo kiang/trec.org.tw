@@ -1,0 +1,4 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+159,4452,2082,太陽能,254,財團法人中華民國證券櫃檯買賣中心,台汽電綠能股份有限公司<br/>鑫光電能有限公司(鑫光電能有限公司),鑫光電能有限公司,鑫光電能有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2082"" data-year=""2022"" data-case=""159"" data-buyer=""4452""><i class=""icon search""></i>詳情</button>",25
+159,4452,2082,太陽能,360,財團法人中華民國證券櫃檯買賣中心,台汽電綠能股份有限公司<br/>鑫光電能有限公司(鑫光電能有限公司),鑫光電能有限公司,鑫光電能有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2082"" data-year=""2023"" data-case=""159"" data-buyer=""4452""><i class=""icon search""></i>詳情</button>",109
+159,4452,2082,太陽能,72,財團法人中華民國證券櫃檯買賣中心,台汽電綠能股份有限公司<br/>鑫光電能有限公司(鑫光電能有限公司),鑫光電能有限公司,鑫光電能有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2082"" data-year=""2024"" data-case=""159"" data-buyer=""4452""><i class=""icon search""></i>詳情</button>",117

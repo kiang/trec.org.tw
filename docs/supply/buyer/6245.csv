@@ -1,0 +1,3 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+345,6245,4182,太陽能,4,合作金庫證券股份有限公司,天能綠電股份有限公司<br/>京承能源股份有限公司(台中八方夜市屋頂型太陽能光電廠),台中八方夜市屋頂型太陽能光電廠,京承能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""4182"" data-year=""2024"" data-case=""345"" data-buyer=""6245""><i class=""icon search""></i>詳情</button>",172
+567,6245,4182,太陽能,63,合作金庫證券股份有限公司,"天能綠電股份有限公司<br/>佳煌科技股份有限公司(佳煌科技股份有限公司 (德岱網版印刷))","佳煌科技股份有限公司 (德岱網版印刷)",佳煌科技股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""4182"" data-year=""2024"" data-case=""567"" data-buyer=""6245""><i class=""icon search""></i>詳情</button>",243

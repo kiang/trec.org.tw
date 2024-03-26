@@ -1,0 +1,3 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+574,7264,6146,風力能,1090,台灣華可貴股份有限公司,能元超商股份有限公司<br/>台泥綠能股份有限公司(台泥綠能彰濱風力發電廠),台泥綠能彰濱風力發電廠,台泥綠能股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""6146"" data-year=""2023"" data-case=""574"" data-buyer=""7264""><i class=""icon search""></i>詳情</button>",464
+574,7264,6146,風力能,2622,台灣華可貴股份有限公司,能元超商股份有限公司<br/>台泥綠能股份有限公司(台泥綠能彰濱風力發電廠),台泥綠能彰濱風力發電廠,台泥綠能股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""6146"" data-year=""2024"" data-case=""574"" data-buyer=""7264""><i class=""icon search""></i>詳情</button>",492

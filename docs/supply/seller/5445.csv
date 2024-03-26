@@ -1,0 +1,3 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+415,541,5445,太陽能,210,彰化商業銀行股份有限公司,太陽神電力股份有限公司<br/>銧昊股份有限公司(銧昊股份有限公司),銧昊股份有限公司,銧昊股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5445"" data-year=""2023"" data-case=""415"" data-buyer=""541""><i class=""icon search""></i>詳情</button>",234
+415,6405,5445,太陽能,479,聯詠科技股份有限公司,太陽神電力股份有限公司<br/>銧昊股份有限公司(銧昊股份有限公司),銧昊股份有限公司,銧昊股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5445"" data-year=""2024"" data-case=""415"" data-buyer=""6405""><i class=""icon search""></i>詳情</button>",251

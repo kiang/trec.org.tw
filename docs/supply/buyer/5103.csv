@@ -1,0 +1,4 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+183,5103,1881,風力能,6,南茂科技股份有限公司,富威電力股份有限公司<br/>彰苑風力發電股份有限公司(彰苑風力發電廠),彰苑風力發電廠,彰苑風力發電股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""1881"" data-year=""2023"" data-case=""183"" data-buyer=""5103""><i class=""icon search""></i>詳情</button>",255
+184,5103,1881,風力能,17,南茂科技股份有限公司,富威電力股份有限公司<br/>北苑風力發電股份有限公司(北苑風力發電廠),北苑風力發電廠,北苑風力發電股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""1881"" data-year=""2023"" data-case=""184"" data-buyer=""5103""><i class=""icon search""></i>詳情</button>",279
+184,5103,1881,風力能,2,南茂科技股份有限公司,富威電力股份有限公司<br/>北苑風力發電股份有限公司(北苑風力發電廠),北苑風力發電廠,北苑風力發電股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""1881"" data-year=""2024"" data-case=""184"" data-buyer=""5103""><i class=""icon search""></i>詳情</button>",288

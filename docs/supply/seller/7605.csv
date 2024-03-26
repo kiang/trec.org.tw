@@ -1,0 +1,2 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+661,9005,7605,太陽能,7352,聯華電子股份有限公司,辰亞電力股份有限公司<br/>(崙尾東一號電廠),崙尾東一號電廠,辰亞電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""7605"" data-year=""2024"" data-case=""661"" data-buyer=""9005""><i class=""icon search""></i>詳情</button>",503

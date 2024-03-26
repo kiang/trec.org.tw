@@ -1,0 +1,4 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+337,6007,4310,太陽能,166,科德寶遠東股份有限公司,台康日能科技股份有限公司<br/>(高雄典寶溪滯洪池),高雄典寶溪滯洪池,台康日能科技股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""4310"" data-year=""2022"" data-case=""337"" data-buyer=""6007""><i class=""icon search""></i>詳情</button>",20
+337,6007,4310,太陽能,1976,科德寶遠東股份有限公司,台康日能科技股份有限公司<br/>(高雄典寶溪滯洪池),高雄典寶溪滯洪池,台康日能科技股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""4310"" data-year=""2023"" data-case=""337"" data-buyer=""6007""><i class=""icon search""></i>詳情</button>",100
+337,6007,4310,太陽能,500,科德寶遠東股份有限公司,台康日能科技股份有限公司<br/>(高雄典寶溪滯洪池),高雄典寶溪滯洪池,台康日能科技股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""4310"" data-year=""2024"" data-case=""337"" data-buyer=""6007""><i class=""icon search""></i>詳情</button>",108

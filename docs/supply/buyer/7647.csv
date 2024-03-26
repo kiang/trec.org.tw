@@ -1,0 +1,2 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+675,7647,7105,太陽能,71,崇越科技股份有限公司,曜越綠電股份有限公司<br/>冠越科技工程股份有限公司(興隆興太陽光電發電廠),興隆興太陽光電發電廠,冠越科技工程股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""7105"" data-year=""2024"" data-case=""675"" data-buyer=""7647""><i class=""icon search""></i>詳情</button>",400

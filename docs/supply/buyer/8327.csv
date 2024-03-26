@@ -1,0 +1,3 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+276,8327,2542,太陽能,571,永豐金證券股份有限公司,陽光伏特家電力股份有限公司<br/>奇美綠能股份有限公司(奇美綠能園區二期),奇美綠能園區二期,奇美綠能股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2542"" data-year=""2024"" data-case=""276"" data-buyer=""8327""><i class=""icon search""></i>詳情</button>",551
+280,8327,2542,太陽能,1,永豐金證券股份有限公司,陽光伏特家電力股份有限公司<br/>綠點能享股份有限公司(港都15號),港都15號,綠點能享股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2542"" data-year=""2024"" data-case=""280"" data-buyer=""8327""><i class=""icon search""></i>詳情</button>",562

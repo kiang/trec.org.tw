@@ -1,0 +1,3 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+605,4503,2082,太陽能,410,炎洲股份有限公司薄膜廠,台汽電綠能股份有限公司<br/>華晶能源股份有限公司(華晶12),華晶12,華晶能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2082"" data-year=""2023"" data-case=""605"" data-buyer=""4503""><i class=""icon search""></i>詳情</button>",123
+605,4503,2082,太陽能,163,炎洲股份有限公司薄膜廠,台汽電綠能股份有限公司<br/>華晶能源股份有限公司(華晶12),華晶12,華晶能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2082"" data-year=""2024"" data-case=""605"" data-buyer=""4503""><i class=""icon search""></i>詳情</button>",130

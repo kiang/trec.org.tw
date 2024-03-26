@@ -1,0 +1,5 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+263,178,421,太陽能,6,元大人壽保險股份有限公司,瓦特先生股份有限公司<br/>得禾能源股份有限公司(屏南京沅鎢業),屏南京沅鎢業,得禾能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""421"" data-year=""2023"" data-case=""263"" data-buyer=""178""><i class=""icon search""></i>詳情</button>",424
+287,178,421,太陽能,161,元大人壽保險股份有限公司,瓦特先生股份有限公司<br/>得禾二能源有限公司(台南女中TW190992),台南女中TW190992,得禾二能源有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""421"" data-year=""2023"" data-case=""287"" data-buyer=""178""><i class=""icon search""></i>詳情</button>",437
+263,178,421,太陽能,26,元大人壽保險股份有限公司,瓦特先生股份有限公司<br/>得禾能源股份有限公司(屏南京沅鎢業),屏南京沅鎢業,得禾能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""421"" data-year=""2024"" data-case=""263"" data-buyer=""178""><i class=""icon search""></i>詳情</button>",447
+287,178,421,太陽能,118,元大人壽保險股份有限公司,瓦特先生股份有限公司<br/>得禾二能源有限公司(台南女中TW190992),台南女中TW190992,得禾二能源有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""421"" data-year=""2024"" data-case=""287"" data-buyer=""178""><i class=""icon search""></i>詳情</button>",459

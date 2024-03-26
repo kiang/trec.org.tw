@@ -1,0 +1,3 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+188,4162,421,太陽能,6,臺灣維固股份有限公司,瓦特先生股份有限公司<br/>得禾能源股份有限公司(大甲野寶),大甲野寶,得禾能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""421"" data-year=""2022"" data-case=""188"" data-buyer=""4162""><i class=""icon search""></i>詳情</button>",116
+188,4162,421,太陽能,4,臺灣維固股份有限公司,瓦特先生股份有限公司<br/>得禾能源股份有限公司(大甲野寶),大甲野寶,得禾能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""421"" data-year=""2023"" data-case=""188"" data-buyer=""4162""><i class=""icon search""></i>詳情</button>",411

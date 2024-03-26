@@ -1,0 +1,3 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+403,5904,5604,太陽能,88,凱基證券股份有限公司,天權智慧能源股份有限公司<br/>(天權智慧能源股份有限公司),天權智慧能源股份有限公司,天權智慧能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5604"" data-year=""2023"" data-case=""403"" data-buyer=""5904""><i class=""icon search""></i>詳情</button>",161
+404,5904,5607,太陽能,85,凱基證券股份有限公司,玉衡智慧能源股份有限公司<br/>(玉衡智慧能源股份有限公司),玉衡智慧能源股份有限公司,玉衡智慧能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5607"" data-year=""2023"" data-case=""404"" data-buyer=""5904""><i class=""icon search""></i>詳情</button>",392

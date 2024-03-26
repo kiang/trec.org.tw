@@ -1,0 +1,3 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+381,5022,5425,太陽能,1233,台灣茂矽電子股份有限公司,大同智能股份有限公司<br/>同陽能源股份有限公司(臺北大眾捷運股份有限公司-土城機廠屋頂型太陽光電系統),臺北大眾捷運股份有限公司-土城機廠屋頂型太陽光電系統,同陽能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5425"" data-year=""2023"" data-case=""381"" data-buyer=""5022""><i class=""icon search""></i>詳情</button>",140
+381,5022,5425,太陽能,123,台灣茂矽電子股份有限公司,大同智能股份有限公司<br/>同陽能源股份有限公司(臺北大眾捷運股份有限公司-土城機廠屋頂型太陽光電系統),臺北大眾捷運股份有限公司-土城機廠屋頂型太陽光電系統,同陽能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5425"" data-year=""2024"" data-case=""381"" data-buyer=""5022""><i class=""icon search""></i>詳情</button>",153

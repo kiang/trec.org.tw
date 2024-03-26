@@ -1,0 +1,5 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+171,2133,2203,風力能,4857,台灣積體電路製造股份有限公司,清風風力發電股份有限公司<br/>(清水風場),清水風場,清風風力發電股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2203"" data-year=""2021"" data-case=""171"" data-buyer=""2133""><i class=""icon search""></i>詳情</button>",23
+171,2133,2203,風力能,4905,台灣積體電路製造股份有限公司,清風風力發電股份有限公司<br/>(清水風場),清水風場,清風風力發電股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2203"" data-year=""2022"" data-case=""171"" data-buyer=""2133""><i class=""icon search""></i>詳情</button>",105
+171,2133,2203,風力能,4087,台灣積體電路製造股份有限公司,清風風力發電股份有限公司<br/>(清水風場),清水風場,清風風力發電股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2203"" data-year=""2023"" data-case=""171"" data-buyer=""2133""><i class=""icon search""></i>詳情</button>",379
+171,2133,2203,風力能,1697,台灣積體電路製造股份有限公司,清風風力發電股份有限公司<br/>(清水風場),清水風場,清風風力發電股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2203"" data-year=""2024"" data-case=""171"" data-buyer=""2133""><i class=""icon search""></i>詳情</button>",413

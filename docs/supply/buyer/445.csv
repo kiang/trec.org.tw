@@ -1,0 +1,4 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+187,445,2363,太陽能,25,永佳環球有限公司,泓德能源科技股份有限公司<br/>(星星電力-TN柳營1號),星星電力-TN柳營1號,泓德能源科技股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2363"" data-year=""2022"" data-case=""187"" data-buyer=""445""><i class=""icon search""></i>詳情</button>",102
+187,445,2363,太陽能,78,永佳環球有限公司,泓德能源科技股份有限公司<br/>(星星電力-TN柳營1號),星星電力-TN柳營1號,泓德能源科技股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2363"" data-year=""2023"" data-case=""187"" data-buyer=""445""><i class=""icon search""></i>詳情</button>",376
+187,445,2363,太陽能,15,永佳環球有限公司,泓德能源科技股份有限公司<br/>(星星電力-TN柳營1號),星星電力-TN柳營1號,泓德能源科技股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2363"" data-year=""2024"" data-case=""187"" data-buyer=""445""><i class=""icon search""></i>詳情</button>",409

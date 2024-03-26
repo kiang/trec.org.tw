@@ -1,0 +1,5 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+533,4661,4741,太陽能,3986,中鴻鋼鐵股份有限公司,中鋼光能股份有限公司<br/>(中鴻鹿港廠),中鴻鹿港廠,中鋼光能股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""4741"" data-year=""2023"" data-case=""533"" data-buyer=""4661""><i class=""icon search""></i>詳情</button>",41
+536,4661,4741,太陽能,889,中鴻鋼鐵股份有限公司,中鋼光能股份有限公司<br/>(中鴻酸鍍廠),中鴻酸鍍廠,中鋼光能股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""4741"" data-year=""2023"" data-case=""536"" data-buyer=""4661""><i class=""icon search""></i>詳情</button>",43
+533,4661,4741,太陽能,851,中鴻鋼鐵股份有限公司,中鋼光能股份有限公司<br/>(中鴻鹿港廠),中鴻鹿港廠,中鋼光能股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""4741"" data-year=""2024"" data-case=""533"" data-buyer=""4661""><i class=""icon search""></i>詳情</button>",41
+536,4661,4741,太陽能,255,中鴻鋼鐵股份有限公司,中鋼光能股份有限公司<br/>(中鴻酸鍍廠),中鴻酸鍍廠,中鋼光能股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""4741"" data-year=""2024"" data-case=""536"" data-buyer=""4661""><i class=""icon search""></i>詳情</button>",44

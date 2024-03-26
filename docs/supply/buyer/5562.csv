@@ -1,0 +1,4 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+324,5562,2082,太陽能,1125,台灣優衣庫有限公司,台汽電綠能股份有限公司<br/>華洋電業開發股份有限公司(力麗企業廠房屋頂太陽光電發電廠),力麗企業廠房屋頂太陽光電發電廠,華洋電業開發股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2082"" data-year=""2022"" data-case=""324"" data-buyer=""5562""><i class=""icon search""></i>詳情</button>",32
+324,5562,2082,太陽能,2365,台灣優衣庫有限公司,台汽電綠能股份有限公司<br/>華洋電業開發股份有限公司(力麗企業廠房屋頂太陽光電發電廠),力麗企業廠房屋頂太陽光電發電廠,華洋電業開發股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2082"" data-year=""2023"" data-case=""324"" data-buyer=""5562""><i class=""icon search""></i>詳情</button>",118
+324,5562,2082,太陽能,1258,台灣優衣庫有限公司,台汽電綠能股份有限公司<br/>華洋電業開發股份有限公司(力麗企業廠房屋頂太陽光電發電廠),力麗企業廠房屋頂太陽光電發電廠,華洋電業開發股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2082"" data-year=""2024"" data-case=""324"" data-buyer=""5562""><i class=""icon search""></i>詳情</button>",125

@@ -1,0 +1,5 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+160,2133,2182,風力能,141877,台灣積體電路製造股份有限公司,中威風力發電股份有限公司<br/>(台中風場),台中風場,中威風力發電股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2182"" data-year=""2021"" data-case=""160"" data-buyer=""2133""><i class=""icon search""></i>詳情</button>",1
+160,2133,2182,風力能,97111,台灣積體電路製造股份有限公司,中威風力發電股份有限公司<br/>(台中風場),台中風場,中威風力發電股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2182"" data-year=""2022"" data-case=""160"" data-buyer=""2133""><i class=""icon search""></i>詳情</button>",1
+160,2133,2182,風力能,164327,台灣積體電路製造股份有限公司,中威風力發電股份有限公司<br/>(台中風場),台中風場,中威風力發電股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2182"" data-year=""2023"" data-case=""160"" data-buyer=""2133""><i class=""icon search""></i>詳情</button>",1
+160,2133,2182,風力能,42723,台灣積體電路製造股份有限公司,中威風力發電股份有限公司<br/>(台中風場),台中風場,中威風力發電股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2182"" data-year=""2024"" data-case=""160"" data-buyer=""2133""><i class=""icon search""></i>詳情</button>",1

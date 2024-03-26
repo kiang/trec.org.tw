@@ -1,0 +1,5 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+270,7087,2542,太陽能,17,昇佳電子股份有限公司,陽光伏特家電力股份有限公司<br/>奇美綠能股份有限公司(奇美綠能園區一期),奇美綠能園區一期,奇美綠能股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2542"" data-year=""2023"" data-case=""270"" data-buyer=""7087""><i class=""icon search""></i>詳情</button>",485
+270,7087,2542,太陽能,33,昇佳電子股份有限公司,陽光伏特家電力股份有限公司<br/>奇美綠能股份有限公司(奇美綠能園區一期),奇美綠能園區一期,奇美綠能股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2542"" data-year=""2024"" data-case=""270"" data-buyer=""7087""><i class=""icon search""></i>詳情</button>",531
+686,7087,2542,太陽能,3,昇佳電子股份有限公司,陽光伏特家電力股份有限公司<br/>金良科技股份有限公司(新光台南1、2、8廠),新光台南1、2、8廠,金良科技股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2542"" data-year=""2024"" data-case=""686"" data-buyer=""7087""><i class=""icon search""></i>詳情</button>",574
+688,7087,2542,太陽能,2,昇佳電子股份有限公司,陽光伏特家電力股份有限公司<br/>金良科技股份有限公司(新光台南7廠),新光台南7廠,金良科技股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2542"" data-year=""2024"" data-case=""688"" data-buyer=""7087""><i class=""icon search""></i>詳情</button>",581

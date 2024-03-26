@@ -1,0 +1,2 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+384,7654,5682,水力能,370,國立海洋科技博物館,"花蓮綠能股份有限公司<br/>名間電力股份有限公司(名間電力股份有限公司 水力發電廠)","名間電力股份有限公司 水力發電廠",名間電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5682"" data-year=""2023"" data-case=""384"" data-buyer=""7654""><i class=""icon search""></i>詳情</button>",469

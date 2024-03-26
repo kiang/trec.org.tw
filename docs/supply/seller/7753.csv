@@ -1,0 +1,2 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+482,8927,7753,太陽能,1216,振芳股份有限公司,能貿綠電科技股份有限公司<br/>星崴電力股份有限公司(星崴七股太陽光電發電廠),星崴七股太陽光電發電廠,星崴電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""7753"" data-year=""2024"" data-case=""482"" data-buyer=""8927""><i class=""icon search""></i>詳情</button>",495

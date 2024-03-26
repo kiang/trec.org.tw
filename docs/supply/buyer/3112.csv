@@ -1,0 +1,3 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+453,3112,4741,太陽能,2464,中鋼鋁業股份有限公司,中鋼光能股份有限公司<br/>(中鋁軋鋁廠),中鋁軋鋁廠,中鋼光能股份有限公司,1,併網型直供,"<button class=""ui mini green button detail"" data-seller=""4741"" data-year=""2023"" data-case=""453"" data-buyer=""3112""><i class=""icon search""></i>詳情</button>",29
+453,3112,4741,太陽能,753,中鋼鋁業股份有限公司,中鋼光能股份有限公司<br/>(中鋁軋鋁廠),中鋁軋鋁廠,中鋼光能股份有限公司,1,併網型直供,"<button class=""ui mini green button detail"" data-seller=""4741"" data-year=""2024"" data-case=""453"" data-buyer=""3112""><i class=""icon search""></i>詳情</button>",29

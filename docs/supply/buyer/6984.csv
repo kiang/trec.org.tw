@@ -1,0 +1,4 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+655,6984,7607,太陽能,5731,力晶積成電子製造股份有限公司,開陽智慧能源股份有限公司<br/>(開陽智慧能源股份有限公司),開陽智慧能源股份有限公司,開陽智慧能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""7607"" data-year=""2023"" data-case=""655"" data-buyer=""6984""><i class=""icon search""></i>詳情</button>",477
+654,6984,7608,太陽能,805,力晶積成電子製造股份有限公司,瑤光智慧能源股份有限公司<br/>(瑤光智慧能源股份有限公司),瑤光智慧能源股份有限公司,瑤光智慧能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""7608"" data-year=""2024"" data-case=""654"" data-buyer=""6984""><i class=""icon search""></i>詳情</button>",418
+655,6984,7607,太陽能,27,力晶積成電子製造股份有限公司,開陽智慧能源股份有限公司<br/>(開陽智慧能源股份有限公司),開陽智慧能源股份有限公司,開陽智慧能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""7607"" data-year=""2024"" data-case=""655"" data-buyer=""6984""><i class=""icon search""></i>詳情</button>",516

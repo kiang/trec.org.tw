@@ -1,0 +1,2 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+391,9128,5748,太陽能,834,中國砂輪企業股份有限公司,天機電力股份有限公司<br/>(天機電力股份有限公司),天機電力股份有限公司,天機電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5748"" data-year=""2024"" data-case=""391"" data-buyer=""9128""><i class=""icon search""></i>詳情</button>",165

@@ -1,0 +1,5 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+200,5146,421,太陽能,1,陳坤宏,瓦特先生股份有限公司<br/>得禾能源股份有限公司(屏東一期),屏東一期,得禾能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""421"" data-year=""2023"" data-case=""200"" data-buyer=""5146""><i class=""icon search""></i>詳情</button>",414
+201,5146,421,太陽能,4,陳坤宏,瓦特先生股份有限公司<br/>得禾能源股份有限公司(屏東二期),屏東二期,得禾能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""421"" data-year=""2023"" data-case=""201"" data-buyer=""5146""><i class=""icon search""></i>詳情</button>",415
+200,5146,421,太陽能,1,陳坤宏,瓦特先生股份有限公司<br/>得禾能源股份有限公司(屏東一期),屏東一期,得禾能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""421"" data-year=""2024"" data-case=""200"" data-buyer=""5146""><i class=""icon search""></i>詳情</button>",435
+201,5146,421,太陽能,1,陳坤宏,瓦特先生股份有限公司<br/>得禾能源股份有限公司(屏東二期),屏東二期,得禾能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""421"" data-year=""2024"" data-case=""201"" data-buyer=""5146""><i class=""icon search""></i>詳情</button>",436

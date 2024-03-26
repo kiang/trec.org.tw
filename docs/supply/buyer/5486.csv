@@ -1,0 +1,5 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+318,5486,5269,太陽能,825,李長榮科技股份有限公司(銅箔廠),全利成電力股份有限公司<br/>(全利成2號電廠),全利成2號電廠,全利成電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5269"" data-year=""2023"" data-case=""318"" data-buyer=""5486""><i class=""icon search""></i>詳情</button>",63
+383,5486,5269,太陽能,453,李長榮科技股份有限公司(銅箔廠),全利成電力股份有限公司<br/>(全利成3號電廠),全利成3號電廠,全利成電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5269"" data-year=""2023"" data-case=""383"" data-buyer=""5486""><i class=""icon search""></i>詳情</button>",66
+318,5486,5269,太陽能,68,李長榮科技股份有限公司(銅箔廠),全利成電力股份有限公司<br/>(全利成2號電廠),全利成2號電廠,全利成電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5269"" data-year=""2024"" data-case=""318"" data-buyer=""5486""><i class=""icon search""></i>詳情</button>",76
+383,5486,5269,太陽能,67,李長榮科技股份有限公司(銅箔廠),全利成電力股份有限公司<br/>(全利成3號電廠),全利成3號電廠,全利成電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5269"" data-year=""2024"" data-case=""383"" data-buyer=""5486""><i class=""icon search""></i>詳情</button>",79

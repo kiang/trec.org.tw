@@ -1,0 +1,4 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+337,5923,4310,太陽能,20,資誠聯合會計師事務所,台康日能科技股份有限公司<br/>(高雄典寶溪滯洪池),高雄典寶溪滯洪池,台康日能科技股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""4310"" data-year=""2023"" data-case=""337"" data-buyer=""5923""><i class=""icon search""></i>詳情</button>",101
+337,5923,4310,太陽能,21,資誠聯合會計師事務所,台康日能科技股份有限公司<br/>(高雄典寶溪滯洪池),高雄典寶溪滯洪池,台康日能科技股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""4310"" data-year=""2024"" data-case=""337"" data-buyer=""5923""><i class=""icon search""></i>詳情</button>",109
+270,5923,2542,太陽能,380,資誠聯合會計師事務所,陽光伏特家電力股份有限公司<br/>奇美綠能股份有限公司(奇美綠能園區一期),奇美綠能園區一期,奇美綠能股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2542"" data-year=""2024"" data-case=""270"" data-buyer=""5923""><i class=""icon search""></i>詳情</button>",546

@@ -1,0 +1,4 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+6,4022,2093,太陽能,1,胤源企業有限公司,南方電力股份有限公司<br/>鴻元工程顧問有限公司(鴻元高雄辦公室太陽光電發電廠),鴻元高雄辦公室太陽光電發電廠,鴻元工程顧問有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2093"" data-year=""2022"" data-case=""6"" data-buyer=""4022""><i class=""icon search""></i>詳情</button>",4
+259,4022,2093,太陽能,3,胤源企業有限公司,南方電力股份有限公司<br/>日晶能源科技有限公司(嘉義縣東石鄉栗子崙段388地號太陽光電發電廠),嘉義縣東石鄉栗子崙段388地號太陽光電發電廠,日晶能源科技有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2093"" data-year=""2023"" data-case=""259"" data-buyer=""4022""><i class=""icon search""></i>詳情</button>",78
+259,4022,2093,太陽能,1,胤源企業有限公司,南方電力股份有限公司<br/>日晶能源科技有限公司(嘉義縣東石鄉栗子崙段388地號太陽光電發電廠),嘉義縣東石鄉栗子崙段388地號太陽光電發電廠,日晶能源科技有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2093"" data-year=""2024"" data-case=""259"" data-buyer=""4022""><i class=""icon search""></i>詳情</button>",88

@@ -1,0 +1,3 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+328,2133,2211,風力能,14694,台灣積體電路製造股份有限公司,桃威風力發電股份有限公司<br/>(新屋風力發電廠),新屋風力發電廠,桃威風力發電股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2211"" data-year=""2023"" data-case=""328"" data-buyer=""2133""><i class=""icon search""></i>詳情</button>",371
+328,2133,2211,風力能,3691,台灣積體電路製造股份有限公司,桃威風力發電股份有限公司<br/>(新屋風力發電廠),新屋風力發電廠,桃威風力發電股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2211"" data-year=""2024"" data-case=""328"" data-buyer=""2133""><i class=""icon search""></i>詳情</button>",404

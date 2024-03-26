@@ -1,0 +1,3 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+287,175,421,太陽能,76,元大證券投資信託股份有限公司,瓦特先生股份有限公司<br/>得禾二能源有限公司(台南女中TW190992),台南女中TW190992,得禾二能源有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""421"" data-year=""2023"" data-case=""287"" data-buyer=""175""><i class=""icon search""></i>詳情</button>",439
+287,175,421,太陽能,124,元大證券投資信託股份有限公司,瓦特先生股份有限公司<br/>得禾二能源有限公司(台南女中TW190992),台南女中TW190992,得禾二能源有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""421"" data-year=""2024"" data-case=""287"" data-buyer=""175""><i class=""icon search""></i>詳情</button>",461

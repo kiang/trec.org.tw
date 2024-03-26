@@ -1,0 +1,4 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+270,6307,2542,太陽能,1375,瑞士商弗克司股份有限公司台灣分公司,陽光伏特家電力股份有限公司<br/>奇美綠能股份有限公司(奇美綠能園區一期),奇美綠能園區一期,奇美綠能股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2542"" data-year=""2023"" data-case=""270"" data-buyer=""6307""><i class=""icon search""></i>詳情</button>",490
+276,6307,2542,太陽能,267,瑞士商弗克司股份有限公司台灣分公司,陽光伏特家電力股份有限公司<br/>奇美綠能股份有限公司(奇美綠能園區二期),奇美綠能園區二期,奇美綠能股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2542"" data-year=""2023"" data-case=""276"" data-buyer=""6307""><i class=""icon search""></i>詳情</button>",509
+270,6307,2542,太陽能,215,瑞士商弗克司股份有限公司台灣分公司,陽光伏特家電力股份有限公司<br/>奇美綠能股份有限公司(奇美綠能園區一期),奇美綠能園區一期,奇美綠能股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2542"" data-year=""2024"" data-case=""270"" data-buyer=""6307""><i class=""icon search""></i>詳情</button>",536

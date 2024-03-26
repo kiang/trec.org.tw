@@ -1,0 +1,4 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+482,5605,1881,太陽能,1711,景碩科技股份有限公司,富威電力股份有限公司<br/>星崴電力股份有限公司(星崴七股太陽光電發電廠),星崴七股太陽光電發電廠,星崴電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""1881"" data-year=""2023"" data-case=""482"" data-buyer=""5605""><i class=""icon search""></i>詳情</button>",308
+482,5605,1881,太陽能,2815,景碩科技股份有限公司,富威電力股份有限公司<br/>星崴電力股份有限公司(星崴七股太陽光電發電廠),星崴七股太陽光電發電廠,星崴電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""1881"" data-year=""2024"" data-case=""482"" data-buyer=""5605""><i class=""icon search""></i>詳情</button>",311
+558,5605,1881,太陽能,96,景碩科技股份有限公司,富威電力股份有限公司<br/>禾迅一號股份有限公司(禾迅一號台南鹽水太陽光電發電系統工程),禾迅一號台南鹽水太陽光電發電系統工程,禾迅一號股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""1881"" data-year=""2024"" data-case=""558"" data-buyer=""5605""><i class=""icon search""></i>詳情</button>",335

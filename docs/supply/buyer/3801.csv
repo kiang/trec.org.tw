@@ -1,0 +1,4 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+5,3801,1881,太陽能,4,伊雲谷數位科技股份有限公司,富威電力股份有限公司<br/>富崴能源股份有限公司(權聖太陽光電廠),權聖太陽光電廠,富崴能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""1881"" data-year=""2022"" data-case=""5"" data-buyer=""3801""><i class=""icon search""></i>詳情</button>",54
+5,3801,1881,太陽能,11,伊雲谷數位科技股份有限公司,富威電力股份有限公司<br/>富崴能源股份有限公司(權聖太陽光電廠),權聖太陽光電廠,富崴能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""1881"" data-year=""2023"" data-case=""5"" data-buyer=""3801""><i class=""icon search""></i>詳情</button>",245
+5,3801,1881,太陽能,3,伊雲谷數位科技股份有限公司,富威電力股份有限公司<br/>富崴能源股份有限公司(權聖太陽光電廠),權聖太陽光電廠,富崴能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""1881"" data-year=""2024"" data-case=""5"" data-buyer=""3801""><i class=""icon search""></i>詳情</button>",263

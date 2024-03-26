@@ -1,0 +1,2 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+320,2209,5002,太陽能,6620,群創光電股份有限公司樹谷分公司,博曜電力股份有限公司<br/>沈尚弘(心忠學甲第一型太陽光電發電廠),心忠學甲第一型太陽光電發電廠,沈尚弘,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5002"" data-year=""2023"" data-case=""320"" data-buyer=""2209""><i class=""icon search""></i>詳情</button>",95

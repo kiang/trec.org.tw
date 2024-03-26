@@ -1,0 +1,2 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+394,2133,5693,水力能,10395,台灣積體電路製造股份有限公司,嘉南實業股份有限公司<br/>(西口水力發電廠),西口水力發電廠,嘉南實業股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5693"" data-year=""2023"" data-case=""394"" data-buyer=""2133""><i class=""icon search""></i>詳情</button>",130

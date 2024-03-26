@@ -1,0 +1,3 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+407,5603,6885,太陽能,1030,鋐光實業股份有限公司,環台光電股份有限公司<br/>(環台光電股份有限公司),環台光電股份有限公司,環台光電股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""6885"" data-year=""2023"" data-case=""407"" data-buyer=""5603""><i class=""icon search""></i>詳情</button>",402
+407,5603,6885,太陽能,276,鋐光實業股份有限公司,環台光電股份有限公司<br/>(環台光電股份有限公司),環台光電股份有限公司,環台光電股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""6885"" data-year=""2024"" data-case=""407"" data-buyer=""5603""><i class=""icon search""></i>詳情</button>",423

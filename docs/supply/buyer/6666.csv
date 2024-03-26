@@ -1,0 +1,2 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+200,6666,421,太陽能,2,張茂益,瓦特先生股份有限公司<br/>得禾能源股份有限公司(屏東一期),屏東一期,得禾能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""421"" data-year=""2023"" data-case=""200"" data-buyer=""6666""><i class=""icon search""></i>詳情</button>",413

@@ -1,0 +1,4 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+360,7694,5361,太陽能,11,高雄興亞股份有限公司,亞福儲能股份有限公司<br/>台康日能科技股份有限公司(嘉義溪墘滯洪池),嘉義溪墘滯洪池,台康日能科技股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5361"" data-year=""2023"" data-case=""360"" data-buyer=""7694""><i class=""icon search""></i>詳情</button>",60
+360,7695,5361,太陽能,24,雷尼紹股份有限公司,亞福儲能股份有限公司<br/>台康日能科技股份有限公司(嘉義溪墘滯洪池),嘉義溪墘滯洪池,台康日能科技股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5361"" data-year=""2024"" data-case=""360"" data-buyer=""7695""><i class=""icon search""></i>詳情</button>",72
+360,7694,5361,太陽能,18,高雄興亞股份有限公司,亞福儲能股份有限公司<br/>台康日能科技股份有限公司(嘉義溪墘滯洪池),嘉義溪墘滯洪池,台康日能科技股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5361"" data-year=""2024"" data-case=""360"" data-buyer=""7694""><i class=""icon search""></i>詳情</button>",73

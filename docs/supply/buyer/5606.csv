@@ -1,0 +1,4 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+482,5606,1881,太陽能,211,香奈兒有限公司,富威電力股份有限公司<br/>星崴電力股份有限公司(星崴七股太陽光電發電廠),星崴七股太陽光電發電廠,星崴電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""1881"" data-year=""2023"" data-case=""482"" data-buyer=""5606""><i class=""icon search""></i>詳情</button>",318
+482,5606,1881,太陽能,191,香奈兒有限公司,富威電力股份有限公司<br/>星崴電力股份有限公司(星崴七股太陽光電發電廠),星崴七股太陽光電發電廠,星崴電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""1881"" data-year=""2024"" data-case=""482"" data-buyer=""5606""><i class=""icon search""></i>詳情</button>",322
+402,5606,4181,太陽能,70,香奈兒有限公司,星星電力股份有限公司<br/>茂泓能源股份有限公司(臺南市北門區第一期太陽光電發電系統工程),臺南市北門區第一期太陽光電發電系統工程,茂泓能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""4181"" data-year=""2024"" data-case=""402"" data-buyer=""5606""><i class=""icon search""></i>詳情</button>",372

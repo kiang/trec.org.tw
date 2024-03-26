@@ -1,0 +1,4 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+5,6252,1881,太陽能,7,台灣土地銀行股份有限公司,富威電力股份有限公司<br/>富崴能源股份有限公司(權聖太陽光電廠),權聖太陽光電廠,富崴能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""1881"" data-year=""2023"" data-case=""5"" data-buyer=""6252""><i class=""icon search""></i>詳情</button>",247
+482,6252,1881,太陽能,120,台灣土地銀行股份有限公司,富威電力股份有限公司<br/>星崴電力股份有限公司(星崴七股太陽光電發電廠),星崴七股太陽光電發電廠,星崴電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""1881"" data-year=""2023"" data-case=""482"" data-buyer=""6252""><i class=""icon search""></i>詳情</button>",300
+482,6252,1881,太陽能,60,台灣土地銀行股份有限公司,富威電力股份有限公司<br/>星崴電力股份有限公司(星崴七股太陽光電發電廠),星崴七股太陽光電發電廠,星崴電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""1881"" data-year=""2024"" data-case=""482"" data-buyer=""6252""><i class=""icon search""></i>詳情</button>",302

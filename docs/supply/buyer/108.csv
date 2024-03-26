@@ -1,0 +1,2 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+707,108,7752,太陽能,997,東聯化學股份有限公司,辰華電力股份有限公司<br/>(崙尾東三號電廠),崙尾東三號電廠,辰華電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""7752"" data-year=""2024"" data-case=""707"" data-buyer=""108""><i class=""icon search""></i>詳情</button>",508

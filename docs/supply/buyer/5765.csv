@@ -1,0 +1,2 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+280,5765,2542,太陽能,10,中友聯合會計師事務所,陽光伏特家電力股份有限公司<br/>綠點能享股份有限公司(港都15號),港都15號,綠點能享股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2542"" data-year=""2024"" data-case=""280"" data-buyer=""5765""><i class=""icon search""></i>詳情</button>",557

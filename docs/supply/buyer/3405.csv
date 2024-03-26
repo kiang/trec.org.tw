@@ -1,0 +1,4 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+368,3405,2093,太陽能,1,淨毒五郎有限公司,南方電力股份有限公司<br/>泰一能源科技有限公司(屏東鹽埔太陽光電發電廠),屏東鹽埔太陽光電發電廠,泰一能源科技有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2093"" data-year=""2022"" data-case=""368"" data-buyer=""3405""><i class=""icon search""></i>詳情</button>",15
+368,3405,2093,太陽能,9,淨毒五郎有限公司,南方電力股份有限公司<br/>泰一能源科技有限公司(屏東鹽埔太陽光電發電廠),屏東鹽埔太陽光電發電廠,泰一能源科技有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2093"" data-year=""2023"" data-case=""368"" data-buyer=""3405""><i class=""icon search""></i>詳情</button>",90
+368,3405,2093,太陽能,2,淨毒五郎有限公司,南方電力股份有限公司<br/>泰一能源科技有限公司(屏東鹽埔太陽光電發電廠),屏東鹽埔太陽光電發電廠,泰一能源科技有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2093"" data-year=""2024"" data-case=""368"" data-buyer=""3405""><i class=""icon search""></i>詳情</button>",100

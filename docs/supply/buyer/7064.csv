@@ -1,0 +1,3 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+281,7064,2542,太陽能,9,友信行股份有限公司,陽光伏特家電力股份有限公司<br/>綠點能享股份有限公司(阿里13號),阿里13號,綠點能享股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2542"" data-year=""2023"" data-case=""281"" data-buyer=""7064""><i class=""icon search""></i>詳情</button>",526
+281,7064,2542,太陽能,4,友信行股份有限公司,陽光伏特家電力股份有限公司<br/>綠點能享股份有限公司(阿里13號),阿里13號,綠點能享股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2542"" data-year=""2024"" data-case=""281"" data-buyer=""7064""><i class=""icon search""></i>詳情</button>",568

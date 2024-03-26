@@ -1,0 +1,3 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+389,2133,4270,風力能,76650,台灣積體電路製造股份有限公司,創維風力發電股份有限公司<br/>(創維風場),創維風場,創維風力發電股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""4270"" data-year=""2023"" data-case=""389"" data-buyer=""2133""><i class=""icon search""></i>詳情</button>",68
+389,2133,4270,風力能,49462,台灣積體電路製造股份有限公司,創維風力發電股份有限公司<br/>(創維風場),創維風場,創維風力發電股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""4270"" data-year=""2024"" data-case=""389"" data-buyer=""2133""><i class=""icon search""></i>詳情</button>",82

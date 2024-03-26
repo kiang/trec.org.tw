@@ -1,0 +1,4 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+391,100,5748,太陽能,2341,國泰世華商業銀行股份有限公司,天機電力股份有限公司<br/>(天機電力股份有限公司),天機電力股份有限公司,天機電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""5748"" data-year=""2023"" data-case=""391"" data-buyer=""100""><i class=""icon search""></i>詳情</button>",146
+366,100,2542,太陽能,49,國泰世華商業銀行股份有限公司,陽光伏特家電力股份有限公司<br/>恆陸能源股份有限公司(恆陸第一期太陽光電發電廠),恆陸第一期太陽光電發電廠,恆陸能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2542"" data-year=""2023"" data-case=""366"" data-buyer=""100""><i class=""icon search""></i>詳情</button>",531
+764,100,8424,太陽能,61,國泰世華商業銀行股份有限公司,寶富電力股份有限公司<br/>寶興能源股份有限公司(寶興金榮光電廠-枋寮一期),寶興金榮光電廠-枋寮一期,寶興能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""8424"" data-year=""2024"" data-case=""764"" data-buyer=""100""><i class=""icon search""></i>詳情</button>",343

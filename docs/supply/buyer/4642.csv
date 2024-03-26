@@ -1,0 +1,3 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+276,4642,2542,太陽能,183,國泰綜合證券股份有限公司,陽光伏特家電力股份有限公司<br/>奇美綠能股份有限公司(奇美綠能園區二期),奇美綠能園區二期,奇美綠能股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2542"" data-year=""2023"" data-case=""276"" data-buyer=""4642""><i class=""icon search""></i>詳情</button>",506
+366,4642,2542,太陽能,76,國泰綜合證券股份有限公司,陽光伏特家電力股份有限公司<br/>恆陸能源股份有限公司(恆陸第一期太陽光電發電廠),恆陸第一期太陽光電發電廠,恆陸能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2542"" data-year=""2023"" data-case=""366"" data-buyer=""4642""><i class=""icon search""></i>詳情</button>",533

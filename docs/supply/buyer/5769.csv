@@ -1,0 +1,2 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+280,5769,2542,太陽能,5,良冠生化科技有限公司,陽光伏特家電力股份有限公司<br/>綠點能享股份有限公司(港都15號),港都15號,綠點能享股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""2542"" data-year=""2023"" data-case=""280"" data-buyer=""5769""><i class=""icon search""></i>詳情</button>",523

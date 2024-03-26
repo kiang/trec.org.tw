@@ -1,0 +1,4 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+558,6507,1881,太陽能,1148,德州儀器工業股份有限公司,富威電力股份有限公司<br/>禾迅一號股份有限公司(禾迅一號台南鹽水太陽光電發電系統工程),禾迅一號台南鹽水太陽光電發電系統工程,禾迅一號股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""1881"" data-year=""2023"" data-case=""558"" data-buyer=""6507""><i class=""icon search""></i>詳情</button>",325
+498,6507,1881,太陽能,100,德州儀器工業股份有限公司,富威電力股份有限公司<br/>玉樹能源股份有限公司(玉樹能源第一期、玉樹能源第1-2期),玉樹能源第一期、玉樹能源第1-2期,玉樹能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""1881"" data-year=""2024"" data-case=""498"" data-buyer=""6507""><i class=""icon search""></i>詳情</button>",328
+558,6507,1881,太陽能,217,德州儀器工業股份有限公司,富威電力股份有限公司<br/>禾迅一號股份有限公司(禾迅一號台南鹽水太陽光電發電系統工程),禾迅一號台南鹽水太陽光電發電系統工程,禾迅一號股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""1881"" data-year=""2024"" data-case=""558"" data-buyer=""6507""><i class=""icon search""></i>詳情</button>",333

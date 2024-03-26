@@ -1,0 +1,3 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+573,8146,6146,風力能,12,福人化學股份有限公司,能元超商股份有限公司<br/>彰旺風力發電股份有限公司(彰旺風力發電),彰旺風力發電,彰旺風力發電股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""6146"" data-year=""2023"" data-case=""573"" data-buyer=""8146""><i class=""icon search""></i>詳情</button>",460
+573,8146,6146,風力能,40,福人化學股份有限公司,能元超商股份有限公司<br/>彰旺風力發電股份有限公司(彰旺風力發電),彰旺風力發電,彰旺風力發電股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""6146"" data-year=""2024"" data-case=""573"" data-buyer=""8146""><i class=""icon search""></i>詳情</button>",488

@@ -1,0 +1,3 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+424,5722,6108,太陽能,22,和昌精密股份有限公司,續興股份有限公司<br/>旭信電力股份有限公司(旭信電力宜蘭廠),旭信電力宜蘭廠,旭信電力股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""6108"" data-year=""2024"" data-case=""424"" data-buyer=""5722""><i class=""icon search""></i>詳情</button>",477
+765,5722,6108,太陽能,10,和昌精密股份有限公司,續興股份有限公司<br/>旭愛能源股份有限公司(旭愛能源維堤廠),旭愛能源維堤廠,旭愛能源股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""6108"" data-year=""2024"" data-case=""765"" data-buyer=""5722""><i class=""icon search""></i>詳情</button>",483

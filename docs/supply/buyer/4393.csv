@@ -1,0 +1,3 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+337,4393,4310,太陽能,161,台北世界貿易中心國際貿易大樓(股)公司,台康日能科技股份有限公司<br/>(高雄典寶溪滯洪池),高雄典寶溪滯洪池,台康日能科技股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""4310"" data-year=""2023"" data-case=""337"" data-buyer=""4393""><i class=""icon search""></i>詳情</button>",99
+337,4393,4310,太陽能,26,台北世界貿易中心國際貿易大樓(股)公司,台康日能科技股份有限公司<br/>(高雄典寶溪滯洪池),高雄典寶溪滯洪池,台康日能科技股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""4310"" data-year=""2024"" data-case=""337"" data-buyer=""4393""><i class=""icon search""></i>詳情</button>",107

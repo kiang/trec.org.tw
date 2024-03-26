@@ -1,0 +1,3 @@
+case_id,buyer,seller,energy,amount,buyer_name,seller_name,case_name,owner,parallel_type,type,detail,DT_RowIndex
+457,5271,6206,風力能,16661,東和鋼鐵企業股份有限公司,東鋼風力發電股份有限公司<br/>(東鋼風力發電股份有限公司),東鋼風力發電股份有限公司,東鋼風力發電股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""6206"" data-year=""2023"" data-case=""457"" data-buyer=""5271""><i class=""icon search""></i>詳情</button>",370
+457,5271,6206,風力能,8385,東和鋼鐵企業股份有限公司,東鋼風力發電股份有限公司<br/>(東鋼風力發電股份有限公司),東鋼風力發電股份有限公司,東鋼風力發電股份有限公司,2,轉供,"<button class=""ui mini green button detail"" data-seller=""6206"" data-year=""2024"" data-case=""457"" data-buyer=""5271""><i class=""icon search""></i>詳情</button>",403
